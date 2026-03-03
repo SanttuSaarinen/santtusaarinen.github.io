@@ -16,4 +16,5 @@
     - Indented item
 - Fourth item
 
-![Tux, the Linux mascot](/assets/images/linux.png)
+
+![Tux, the Linux mascot](linux.png)
