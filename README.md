@@ -25,12 +25,18 @@
     *- Indented item*
 - Fourth item
 
-#### Lorem Ipsum
-&nbsp;&nbsp;&nbsp;&nbsp;
+# Lorem Ipsum
+&nbsp;
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+<img src="https://preview.redd.it/am2m6hr0osf71.jpg?width=640&crop=smart&auto=webp&s=e070c9aa07b5693c4ba661b27917ef60bcab8ee1" width="300">
+  
+
+
+
 
 ![Tux, the Linux mascot](linux.png)
 
